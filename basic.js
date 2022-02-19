@@ -1,0 +1,1 @@
+var deposite = 400;
